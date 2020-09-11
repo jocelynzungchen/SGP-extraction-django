@@ -7,4 +7,4 @@ http://jedi.nlplab.cc:7878/
 
 # Preview
 
-<img src="https://github.com/jocelynzungchen/SGP-extraction/blob/master/demo.png">
+<img src="https://github.com/jocelynzungchen/SGP-extraction-django/blob/master/demo.png">
